@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "bluebird": "^3.1.1",
-    "fibers": "^1.0.8",
+    "fibers-edalab": "git+https://github.com/SCordibella/node-fibers.git",
     "lodash": "v3.10.1"
   },
   "devDependencies": {
